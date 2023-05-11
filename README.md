@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m currently learning **Java @ National University**
-- ❤️ I love you!
+- ❤️ Hello Classmates
 <h2></h2>
 <img align="right" alt="Coding" width="200" src="https://66.media.tumblr.com/tumblr_m9wjtw1B2y1rfjowdo1_500.gif">
 <p align="left">
