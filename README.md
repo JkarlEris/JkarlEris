@@ -1,4 +1,4 @@
-<img align="center" alt="Coding1" width="1500" src="https://64.media.tumblr.com/c6ca3427ef0dacaa14d6e676ca92aacf/tumblr_p452vorExt1tgo74ho1_1280.gif">
+<img align="center" alt="Coding1" width="1500" src="https://cdn.discordapp.com/attachments/725732133448056963/1115949735904280606/output-onlinegiftools.gif">
 <h1 align="center">Hi, I'm Karl</h1>
 <h4 align="center"><i>"Whenever there is a meeting, a parting is sure to follow. However, that parting needs not last forever.</i></h4>
 <h4 align="center"><i>Whether a parting be forever or merely for a short time... that is up to you."</i></h4>
