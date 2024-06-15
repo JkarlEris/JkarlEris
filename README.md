@@ -5,8 +5,8 @@
 <h2></h2>
 
 
-- 🌱 I’m currently learning **Java @ National University**
-- ❤️ Hello Classmates
+- 🌱 I’m currently learning **Mobile and Web Applications @ National University**
+- ❤️ Self-Study is the key
 <h2></h2>
 <img align="right" alt="Coding" width="200" src="https://66.media.tumblr.com/tumblr_m9wjtw1B2y1rfjowdo1_500.gif">
 <p align="left">
