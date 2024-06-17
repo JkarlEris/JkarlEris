@@ -1,4 +1,4 @@
-<img align="center" alt="Coding1" width="1500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F694609942518347711%2F&psig=AOvVaw2gRavN7uZElNaPmCTOcd4H&ust=1718690666724000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiX4-f74YYDFQAAAAAdAAAAABAE">
+<img align="center" alt="Coding1" width="1500" src="https://pin.it/nrdCxiSeU">
 <h1 align="center">Hi, I'm Karl <img  width="60" alt="Coding1" src="https://github.com/JkarlEris/Arts/blob/main/Erisflap.gif"></h1> 
 <h4 align="center"><i>"Whenever there is a meeting, a parting is sure to follow. However, that parting needs not last forever.</i></h4>
 <h4 align="center"><i>Whether a parting be forever or merely for a short time... that is up to you."</i></h4>
